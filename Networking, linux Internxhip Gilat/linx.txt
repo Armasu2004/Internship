@@ -1,0 +1,101 @@
+#!/bin/bash
+echo " "
+echo  "Created by Armasu Constantin"
+echo " "
+echo "Created of date: ";date
+
+
+#$* - all args as one string
+#$@ - all args separated
+#$# - numbers of arguments
+
+#echo "------------------------------------------------------------------"
+#echo " "
+#X=2;
+#echo "Begin scripting "
+#while [ $X -le 5 ]; do
+# echo "Hello world"
+#   ((X=X+1))
+#exit 20
+#done
+
+#if [ $# -eq 0 ]; then
+#"Usage: `basename $0` NumeUser"
+#  exit 85
+#fi
+
+
+
+#if  echo $1 | grep -qvE "[^A-Za-z]+" > /dev/null ; then
+# echo "Hello $1"
+#else
+# echo "Please enter valid name !!"
+#exit 87
+#fi
+#echo "Hello $1"
+
+# Copywright 2022
+#echo "hello"
+#echo -n " world"
+#echo
+
+#A=5
+#B=10
+#C=$A+$B
+
+#echo $A $B
+#echo $C
+
+
+#echo "Cum va numiti: "
+#read -p "Cum va numiti: " NAME
+
+#echo "Hello $NAME"
+
+#if [ $EUID -eq 0 ]; then
+#  echo "Be carefull!!! Script running under root privelegies!!"
+#fi
+
+
+
+#FOLDER1=/root/bin
+
+#if [ -d $FOLDER1 ] ; then
+#       echo "folderul deja exista"
+#else
+#echo "Creare folder"; mkdir $FOLDER1
+#fi
+
+#echo "Usage: $0 NumeUser"
+
+#echo "Hello $1"
+
+=5
+#B=10
+#C=$A+$B
+
+#echo $A $B
+#echo $C
+
+
+#echo "Cum va numiti: "
+#read -p "Cum va numiti: " NAME
+
+#echo "Hello $NAME"
+
+#if [ $EUID -eq 0 ]; then
+#  echo "Be carefull!!! Script running under root privelegies!!"
+#fi
+
+
+
+#FOLDER1=/root/bin
+
+#if [ -d $FOLDER1 ] ; then
+#       echo "folderul deja exista"
+#else
+#echo "Creare folder"; mkdir $FOLDER1
+#fi
+#echo "Usage: $0 NumeUser"
+
+#echo "Hello $1"
